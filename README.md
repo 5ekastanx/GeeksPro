@@ -15,8 +15,8 @@
 ## ⚡ Установка и запуск
 
 ```bash
-git clone https://github.com/<ваше_имя>/GekksPro.git
-cd GekksPro
+git clone https://github.com/5ekastanx/GeeksPro.git
+cd GeeksPro
 ```
 ```bash
 python -m venv venv
